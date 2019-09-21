@@ -1,0 +1,13 @@
+{
+  "name": "openapi-express-couchdb",
+  "version": "1.0.0",
+  "description": "openapi express couchdb boilerplate",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "exegesis-express": "^1.0.0",
+    "express": "^4.16.3"
+  }
+}
