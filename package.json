@@ -8,6 +8,6 @@
   "license": "MIT",
   "dependencies": {
     "exegesis-express": "^1.0.0",
-    "express": "^4.16.3"
+    "express": "^4.18.2"
   }
 }
